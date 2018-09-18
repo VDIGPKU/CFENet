@@ -16,3 +16,6 @@ This is a repo for CFENet, which will release code after the paper publicly avai
 
 - 5th on ***Wider Face for face detection***
 - ***AP of 43.5 on COCO***
+
+
+#### Note that CFENet is only an efficient one-stage detector, which can achieve 23+fps on MS-COCO.
