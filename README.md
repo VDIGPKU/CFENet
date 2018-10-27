@@ -139,4 +139,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py --config configs/cfenet300_vgg.py -
 
 ##### The code is mainly based on [rfbnet](https://github.com/ruinmessi/RFBNet) and [pytorch-ssd](https://github.com/qijiezhao/pytorch-ssd), thanks for their contribution!
 
-##### Please email me: zhaoqijie@pku.edu.cn or open issues if any bugs exist.
+##### Please email me: zhaoqijie@pku.edu.cn or open issues if any bug exists.
