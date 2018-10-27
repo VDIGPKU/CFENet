@@ -85,7 +85,7 @@ CUDA_VISIBLE_DEVICES=0 python test.py --config configs/cfenet300_vgg16.py -d COC
 ```
 It will display like this: (evaluated on MS-COCO 2014minival)
 
-![image](img/cfenet300_vgg.png)
+![image](imgs/cfenet300_vgg.png)
 
 - ##### You can tune score threshold in configs/cfenet300_vgg16.py for better accuracy.
 ```Shell
