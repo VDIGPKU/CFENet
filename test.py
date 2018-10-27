@@ -17,8 +17,6 @@ from data import COCODetection, VOCDetection, BaseTransform
 from configs.CC import Config
 from tqdm import tqdm
 
-
-
 parser = argparse.ArgumentParser(description='CFENet Testing')
 parser.add_argument('-c', '--config', default='configs/cfenet300_vgg16.py', type=str)
 parser.add_argument('-d', '--dataset', default='VOC', help='VOC or COCO version')
