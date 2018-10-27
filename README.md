@@ -45,9 +45,9 @@ Results of other inputsize (To be added)
 Method | Backbone | Inputsize | AP | AP50 | AP75 |AP-small|AP-medium|AP-large
 ---|---|---|---|---|---|---|---|---
 CFENet | VGG-16 |512x512|
-CFENet |SEResNet-50| 512x512
-CFENet | VGG-16 |800x800
-CFENet | Others(any volunteer？)
+CFENet |SEResNet-50| 512x512|
+CFENet | VGG-16 |800x800|
+CFENet | Others(any volunteer？)|
 
 
 ### Contents
