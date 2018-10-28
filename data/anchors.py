@@ -1,8 +1,6 @@
-# config.py
 import math
 import os.path
 
-# gets home dir cross platform
 home = os.path.expanduser("~")
 ddir = os.path.join(home,"data/VOCdevkit/")
 
