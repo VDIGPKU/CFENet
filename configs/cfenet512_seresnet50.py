@@ -7,7 +7,7 @@ model = dict(
     CFENET_CONFIGS = {
         'maps': 7,
         'lat_cfes': 2,
-        'channels': [512, 1024, 512, 512 256, 256, 256],
+        'channels': [512, 1024, 512, 512, 256, 256, 256],
         'ratios': [6, 6, 6, 6, 6, 4, 4],
     },
     backbone_out_channels = (512, 2048, 1024),
