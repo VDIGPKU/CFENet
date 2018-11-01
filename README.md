@@ -54,7 +54,7 @@ CFENet | SEResNet-50|300x300|
 CFENet | VGG-16 |512x512|35.7|56.2|38.4|18.8|38.8|49.0
 CFENet |SEResNet-50| 512x512|
 CFENet | VGG-16 |800x800|
-CFENet | Others(any volunteer？)|
+CFENet | Others(.)|
 
 
 ### Contents
