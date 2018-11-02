@@ -8,13 +8,15 @@ This is a repo for CFENet, ACCV2018.
 
 - 1st on ***UA-DETRAC***
 
+- 1st on **Military Ground Object Recognition Competition**(held by RPCV'18)
+
 - 6th on ***KITTI car detection***
 
-- 2nd on ***WAD workshop***
+- 2nd on ***WAD workshop***(held by CVPR'18)
 
-- 1st on ***Visdrone object detection in videos***
+- 1st on ***Visdrone object detection in videos***(held by ECCV'18)
 
-- 5th on ***Wider Face for face detection***
+- 5th on ***Wider Face for face detection***(held by ECCV'18)
 - ***AP of 43.5 on COCO***
 
 ##### Note that CFENet is only an efficient one-stage detector, which can achieve 23+fps on MS-COCO when single-scale inference(VGG-CFENet800).
@@ -62,6 +64,7 @@ CFENet | Others(.)|
 2. [Evaluation](#evaluation)
 3. [Training](#training)
 4. [Costum dataset](#costum)
+5. [Pretrained models](#models)
 
 
 ## Installation and Prepare Dataset
@@ -134,6 +137,16 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py --config configs/cfenet300_vgg.py -
 ## Costum dataset usage
 ### To be added
 
+------
+## Models
+MS-COCO:
+VGG-16 + 300x300: [cfenet300_vgg16](https://pan.baidu.com/s/1se_kU4inMKzbE409o3eYOg)
+
+VGG-16 + 512x512: [cfenet512_vgg16](https://pan.baidu.com/s/1GABI-We69PnCCfv5_1aCRw)
+
+SEResNet-50 + 300x300: ToBeAdded
+
+SEResNet-50 + 512x512: TobeAdded
 
 -----
 
