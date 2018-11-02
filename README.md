@@ -141,13 +141,13 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py --config configs/cfenet300_vgg.py -
 ## Models
 MS-COCO:
 
-VGG-16 + 300x300: [cfenet300_vgg16](https://pan.baidu.com/s/1se_kU4inMKzbE409o3eYOg)
+VGG-16 + 300x300:   [cfenet300_vgg16](https://pan.baidu.com/s/1se_kU4inMKzbE409o3eYOg)
 
-VGG-16 + 512x512: [cfenet512_vgg16](https://pan.baidu.com/s/1GABI-We69PnCCfv5_1aCRw)
+VGG-16 + 512x512:   [cfenet512_vgg16](https://pan.baidu.com/s/1GABI-We69PnCCfv5_1aCRw)
 
-SEResNet-50 + 300x300: ToBeAdded
+SEResNet-50 + 300x300:  ToBeAdded
 
-SEResNet-50 + 512x512: TobeAdded
+SEResNet-50 + 512x512:  TobeAdded
 
 -----
 
