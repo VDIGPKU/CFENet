@@ -41,7 +41,7 @@ RefineDet | VGG-16| 320x320|29.4|49.2|31.3|10.0|32.0|44.4
 RefineDet | ResNet-101|320x320|32.0|51.4|34.2|10.5|34.7|50.4
 RFBNet| VGG-16|300x300|30.3|49.3|31.8|11.8|31.9|45.9
 CFENet | VGG-16|300x300|31.4|50.9|33.2|**12.8**|33.2|46.7
-CFENet | SEResNet-50|300x300
+CFENet | SEResNet-50|300x300|32.7|51.9|34.9|11.8|35.6|50.4
 [M2Det](https://github.com/qijiezhao/M2Det)* | VGG-16| 320x320|33.5|52.4|35.6|14.4|37.6|47.6
 [M2Det](https://github.com/qijiezhao/M2Det)* | ResNet-101| 320x320|34.3|53.5|36.5|14.8|38.8|47.9
 
@@ -145,7 +145,7 @@ VGG-16 + 300x300:   [cfenet300_vgg16](https://pan.baidu.com/s/1se_kU4inMKzbE409o
 
 VGG-16 + 512x512:   [cfenet512_vgg16](https://pan.baidu.com/s/1GABI-We69PnCCfv5_1aCRw)
 
-SEResNet-50 + 300x300:  ToBeAdded
+SEResNet-50 + 300x300:  [cfenet300_seresnet50](https://pan.baidu.com/s/1h3ZRk6vDbXn3E3XuuQvtOQ)
 
 SEResNet-50 + 512x512:  TobeAdded
 
