@@ -37,6 +37,7 @@ train_cfg = dict(
     )
 
 test_cfg = dict(
+    cuda = True,
     topk = 0,
     iou_jaccard = 0.45,
     soft_nms = True,
