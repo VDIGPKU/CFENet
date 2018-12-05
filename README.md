@@ -27,5 +27,3 @@ In total, there are three versions of CFENet:
 2) CFENet+ (the working branch)
 
 3) CFENet++ (under writing)
-
-Now, we have opened the [**working** branch](https://github.com/qijiezhao/CFENet/tree/working), we wish you can try to train it with different configurations, this can help us find BUGs.
