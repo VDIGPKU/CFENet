@@ -27,3 +27,14 @@ In total, there are three versions of CFENet:
 2) CFENet+ (the working branch)
 
 3) CFENet++ (under writing)
+
+### Citing
+
+If you find this code useful in your research, please consider citing:
+
+    @misc{zhao2018cfenet,
+      author = {Qijie Zhao},
+      title = {CFENet: Object Detection with Comprehensive Feature Enhancement Module},
+      howpublished = {\url{https://github.com/qijiezhao/CFENet}},
+      year = {2018}
+    
