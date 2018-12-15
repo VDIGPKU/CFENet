@@ -264,7 +264,7 @@ class COCODetection(data.Dataset):
     def _write_coco_results_file(self, all_boxes, res_file):
         results = []
         print('Collecting Results......')
-        for cls_ind, cls in tqdm(enumerate(self._classes)):
+        for cls_ind, cls in enumerate(self._classes):
             if cls == '__background__':
                 continue
             # print('Collecting {} results ({:d}/{:d})'.format(cls, cls_ind,
