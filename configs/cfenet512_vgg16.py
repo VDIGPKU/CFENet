@@ -29,8 +29,8 @@ train_cfg = dict(
     gamma = 0.1,
     end_lr = 1e-6,
     step_lr = dict(
-        VOC = [90, 120, 140, 160],
-        COCO = [150, 200, 250, 300],
+        COCO = [90, 120, 140, 160],
+        VOC = [150, 200, 250, 300],
         ),
     print_epochs = 10,
     num_workers= 8,
