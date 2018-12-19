@@ -23,12 +23,15 @@ This is a repo for CFENet, ACCV2018.
 
 --------
 
+
 #### We are still updating this repo 
 - [x] the framework for training,evaluation and testing
 - [x] CFENet300, CFENet512 for vgg16-reduced and seresnet50
-- [ ] Multi-scale inference
-- [ ] CFENet800
+- [x] Multi-scale inference
+- [x] CFENet800
 - [ ] the upgraded CFENet
+
+#### The code will be unavailable for a short time due to some collaborative work.
 
 Detection Comparison on MS-COCO test-dev for **~300x300** input size.
 
